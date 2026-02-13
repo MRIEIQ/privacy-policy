@@ -1,0 +1,26 @@
+1. Information We Collect
+To provide full functionality, SLD collects the following data:
+
+Discord User IDs
+Server (Guild) IDs
+Channel IDs and Role IDs
+Message IDs (for logging purposes, if enabled)
+SLD does not collect passwords, emails, payment info, or cookies, and does not access data outside Discord.
+
+2. Message Content
+Message content is read only to process commands, moderation filters, and logging if enabled by the server administrator. Content is not permanently stored unless logging is enabled. The bot does not share or sell this data outside Discord.
+
+3. How We Use Data
+Data is used strictly for:
+
+Executing commands (music, moderation, utilities)
+Logging moderation actions
+Server configuration and auto-role systems
+4. Data Storage & Security
+Data is stored securely and access is restricted to the bot developer(s) only.
+
+5. User Rights
+Server administrators and users may:
+
+Request removal of server data
+Disable bot features or remove the bot from the server
